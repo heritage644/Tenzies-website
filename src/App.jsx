@@ -84,7 +84,7 @@ return (
 <main>
    {gameWon() && <Confetti/>}
     <h1 className="third">Tenzies</h1>
-    <p className="second"> Roll until all the dies are the same click each <br /> die to freeeze it at it's current value <br /> between rows</p>
+    <p className="second"> Roll until all the dies are the same. Click each <br /> die to freeeze it at it's current value, <br /> between rows</p>
  <div className="dieStyle">
      {diceValue}   
  </div>

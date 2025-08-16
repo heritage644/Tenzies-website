@@ -75,7 +75,7 @@ font-size: medium;
 */
 
 body {
-background-color:#0B2423;
+background-color:#E0F7FA;
 margin: 0;
 padding: 20px;
 height: 100vh;
@@ -131,8 +131,8 @@ gap: 10px;
 .roller {
 
 border: none;
-background-color: black;
-color: #F5F5F5;
+background-color: #42A5F5;
+color: #333333;
 height: 50px;
 width: 100px;
 border-radius: 6px;

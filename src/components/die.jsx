@@ -1,5 +1,5 @@
 export default function Die (props) {
-const backgroundheld = {backgroundColor : "rgb(1, 106, 20)"}
+const backgroundheld = {backgroundColor : "#FF7043"}
 const newChange = props.isHeld ? backgroundheld : null;
 
     return (
